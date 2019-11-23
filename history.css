@@ -1,0 +1,87 @@
+#clearhistory_btn{
+	margin-left: 140px;
+}
+
+.title_section{
+	margin-top: 50px;
+}
+
+/*.title_section .title_wrapper{
+	display:grid;
+	grid-template-columns: 100%;
+	grid-auto-rows: 60px;
+	justify-items: stretch;
+	align-items: stretch;
+}
+
+.title_section .title_wrapper h1{
+	position: relative;
+	width: 25%;
+	left: 41%;
+	font-size: 25px;
+	font-style: italic;
+}*/
+
+.output_section{
+	margin-top: 60px;
+}
+
+.output_section .wrapper{
+	display: grid;
+	grid-template-columns: 100%;
+	justify-items: center;
+	align-items: center;
+}
+
+/*.output_section .wrapper h1{
+	position: absolute;
+	font-size: 40px;
+	color: #c83349;
+	left: 38%;
+	width: 32%;
+}*/
+
+.output_section .wrapper .loading_section{
+	justify-content: center;
+	align-items: center;
+}
+
+.output_section .wrapper .loading_section h1{
+	position: relative;
+	left: -23%;
+	width: 100%;
+	font: 40px;
+}
+
+.output_section .wrapper .nohistory_section h1{
+	position: relative;
+	color: #c83349;
+	font-weight: 800;
+	left: -15%;
+	width: 100%;
+	font: 40px;
+}
+
+
+
+.output_section .wrapper table{
+	width: 50%;
+}
+
+th, td{
+	text-align: center;
+	padding: 12px;
+}
+
+th{
+	text-transform: uppercase;
+	border-bottom: 2px solid #c83349;
+	border-collapse: collapse;
+	font-size: 16px;
+}
+
+td{
+	padding-top: 20px; 
+	font-weight: 800; 
+	font-size: 15px;
+}

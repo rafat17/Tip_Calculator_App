@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Montserrat;
+	background: #f3d8e4;
+}
+
+.heading_section{
+	display: flex;
+	height: 180px;
+	max-height: 200px;
+	justify-content: center;
+	align-items: center;
+}
+
+.heading_container{
+	position: absolute;
+	width: 40%;
+}
+
+.heading_container h1{
+	font-size: 33px;
+	color: #601f3c;
+}

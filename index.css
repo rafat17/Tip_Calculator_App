@@ -1,0 +1,83 @@
+/* INPUT SECTION STYLING */
+.input_section{
+	padding: 15px;
+	height: 130px;
+	padding: 70px 0px 0px 30px;
+}
+
+.input_container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	width: 42vw;
+	left: 28%;
+	/*background: #8c8c8c;*/
+	min-height: 100px;
+	max-height: 120px;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+}
+
+
+
+.input_container input{
+	height: 25px;
+	width: 300px;
+	background: transparent;
+	color: #c83349;
+	font-size: 35px;
+	font-weight: 400;
+	padding: 3px;
+	margin-right: 20px;
+	text-align: center;
+	outline: none;
+	border: none;
+	border-bottom: 1.5px solid #c83349;
+}
+
+.input_container button{
+	background: #c83349;
+	color: #ffffff;
+	width: 90px;
+	height: 35px;
+	font-size: 17.5px;
+	padding: 4px;
+	text-align: center;
+	border-radius: 10px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+
+.output_section{
+	margin-top: 20px
+}
+
+
+/* OUTPUT SECTION STYLING */
+.output_section .wrapper{
+	display: grid;
+	grid-template-columns: 100%;
+	grid-auto-rows: 45px;
+	justify-items: stretch;
+	align-items: stretch; 
+}
+
+.output_section .wrapper #output{
+	text-align: center;
+	font-size: 27px;
+}
+
+.output_section .wrapper #output strong{
+	font-size: 32px;
+	color: #c83349;
+}
+
+
+
+
+

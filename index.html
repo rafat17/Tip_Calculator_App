@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Home</title>
+	<link rel="stylesheet" href="header_global.css">
+	<link rel="stylesheet" href="index.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Montserrat'>
+
+	<script src="https://www.gstatic.com/firebasejs/7.4.0/firebase-app.js"></script>
+	<!-- <script src="https://www.gstatic.com/firebasejs/7.4.0/firebase-analytics.js"></script> -->
+	<script src="config.js"></script>
+	
+
+	<script src="https://www.gstatic.com/firebasejs/7.4.0/firebase-auth.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/7.4.0/firebase-database.js"></script> 
+	<!-- <script src="https://www.gstatic.com/firebasejs/7.4.0/firebase-firestore.js"></script> -->
+    
+</head>
+<body>
+	<header>
+		<div class="heading_section"><h1>Tip Calculator App</h1></div>
+		<div class="clear_section">
+			<button onclick=controller.logOut() id="logout_btn">Log Out </button>
+			<button id="clear_btn">Clear Screen</button>
+			
+		</div>
+		<div class="button_section">
+			<button id="history_btn">History</button>
+			<button id="percentage_btn">Change Tip %</button>
+			<button id="reset_btn">Reset</button>
+		</div>		
+	</header>
+	
+	<section class="input_section">
+		<div class="input_container">
+			<input id="input_tip" type="number" placeholder="Enter your bill amount" />
+			<button id="tip_btn">Get Tip</button>
+		</div>
+	</section>	
+	
+
+
+
+
+
+
+
+</body>
+<script src="log_status.js"></script>
+<script src="index.js"></script>
+
+</html>

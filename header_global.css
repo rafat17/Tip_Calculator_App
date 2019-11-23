@@ -1,0 +1,60 @@
+body{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+	height: 100vh;
+	background: #f2f2f2;
+	font-family: Montserrat;
+}
+
+::placeholder{
+	color: #c83349;
+	font-size: 20px;
+	opacity: 0.8;
+}
+header{
+	position: sticky;
+	top: 0;
+	background: #c83349;
+	opacity: 0.9;
+	height: 90px;
+	padding: 5px 5px 5px 2px;
+	margin-bottom: 17px;
+	overflow: hidden;
+}
+
+header .heading_section{
+	position: relative;
+	width: 32%;
+	left: 38%;
+	color: #ffffff;
+}
+
+header .clear_section{
+	position: absolute;
+	left: 0.5%;
+	top: 70%;
+	width: 20%;
+}
+
+header .button_section{
+	display: flex;
+	justify-content: center;
+	align-items: center; 
+	position: absolute;
+	top: 70%;
+	left: 82.7%;
+	width: 17vw;
+	padding-bottom: 20px;
+}
+
+header button{
+	padding: 1px;
+	background: transparent;
+	color: #ffffff;
+	margin-right: 20px;
+	font-size: 15px;
+	outline: none;
+	border: none;
+	cursor: pointer;
+}
