@@ -24,6 +24,9 @@ N.B:: Internet connection is mandatory to run this application
 > Sign In Feature: Lets the user sign in directly or register in seconds using a valid email address.
 
 [![login.png](https://i.postimg.cc/dkNQdGV1/login.png)](https://postimg.cc/dkNQdGV1)
+https://i.postimg.cc/52RFXLvV/history-ui-calc-history.png
+
+> 
 
 
 
