@@ -51,8 +51,10 @@ By clicking the "Change Tip %" button, the user will be prompted to set a custom
 
 - **View user history:** By clicking on the "History" tab of the user's home page, the user can view the history of the user's
 calculation by redirecting him/her to the "history.html" page. If no history is found, "No HISTORY Found !" will be displayed. Both scenarios are shown below.
-[![home-ui-no-history.png](https://i.postimg.cc/21n5Jq2c/home-ui-no-history.png)](https://postimg.cc/21n5Jq2c)
-[![home-ui-no-history.png](https://i.postimg.cc/HJHLCpNp/home-ui-no-history.png)](https://postimg.cc/HJHLCpNp)
+
+
+**[![home-ui-no-history.png]**(https://i.postimg.cc/21n5Jq2c/home-ui-no-history.png)](https://postimg.cc/21n5Jq2c)
+**[![home-ui-no-history.png]**(https://i.postimg.cc/HJHLCpNp/home-ui-no-history.png)](https://postimg.cc/HJHLCpNp)
 
 - **Clear History from User's profile:** At the click of "Clear History" on the history.html page of the web app, all of the users history will be cleared and hence "No HISTORY Found !" will be displayed again. 
 
