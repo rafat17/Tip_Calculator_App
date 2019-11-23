@@ -8,9 +8,9 @@ A web application that automatically calculates the value of the tip for you bas
 - **Realtime database from Google Firebase**
 
 #How To Use this Web App:
-- **Clone/download this repository
-- **Run the login.html file
-- **You can sign in to this application by using your valid email address
+- **Clone/download this repository**
+- **Run the login.html file**
+- **You can sign in to this application by using your valid email address**
 
 **N.B:: Internet connection is mandatory to run this application
 
