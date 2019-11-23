@@ -20,6 +20,10 @@ A web application that automatically calculates the value of the tip for you bas
 - **The user can customise the default tip percentage set at 5%, to any value he wishes to set it at.**
 - **The user can view the history of his tip calculation.**
 
+#Username and password you can use to use this app
+**email:** rafatul1704@gmail.com
+**password:** fraternity
+
 #App features and their usage:
 
 - **Sign In Feature:** Lets the user sign in directly or register in seconds using a valid email address.
