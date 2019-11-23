@@ -50,7 +50,7 @@ By clicking the "Change Tip %" button, the user will be prompted to set a custom
 - **Reset to Default:** At the click of "Reset" on the index.html or user's main page, the default value of the tip will be set and the custom tip will be removed.
 
 - **View user history:** By clicking on the "History" tab of the user's home page, the user can view the history of the user's
-calculation. If no history is found, "No HISTORY Found !" will be displayed. Both scenarios are shown below
+calculation by redirecting him/her to the "history.html" page. If no history is found, "No HISTORY Found !" will be displayed. Both scenarios are shown below.
 [![home-ui-no-history.png](https://i.postimg.cc/21n5Jq2c/home-ui-no-history.png)](https://postimg.cc/21n5Jq2c)
 [![home-ui-no-history.png](https://i.postimg.cc/HJHLCpNp/home-ui-no-history.png)](https://postimg.cc/HJHLCpNp)
 
